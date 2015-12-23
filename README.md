@@ -25,7 +25,7 @@ Most importantly, the flexbox layout is direction-agnostic as opposed to the reg
                     flex-basis
 ```
 
-Prefixing Flexbox:
+Browser Support & Prefixing Flexbox:
 
 IE 10 : -ms-   
     display: -ms-flex;

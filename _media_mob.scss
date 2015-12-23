@@ -1,0 +1,28 @@
+@media (max-width :766px) {
+  header {
+    height: 225px;
+  }
+  .header_container {
+    flex-flow: row wrap;
+
+  }
+  .navtitle {
+    width: 100% !important;
+    text-align: center;
+  }
+  .header_navbar ul{
+      flex-direction: column;
+      align-items: center;
+      align-content: center;
+  }
+  .speaking {
+    width: 100%;
+  }
+  .email {
+    width: 100%;
+    margin: 10px auto 0px;
+  }
+  footer {
+    margin-top: 10px;
+  }
+}
